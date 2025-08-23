@@ -1,4 +1,4 @@
 {
-  "bot1": false,
-  "bot2": true
+  "bot1": true,
+  "bot2": false
 }
